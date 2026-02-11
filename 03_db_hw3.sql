@@ -1,6 +1,6 @@
 use db03;
 
-SELECT
+SELECT 
     o.id AS order_id,
     o.date AS order_date,
     c.name AS customer_name,
